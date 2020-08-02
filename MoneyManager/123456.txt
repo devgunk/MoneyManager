@@ -1,0 +1,4 @@
+Account Number : 123456
+PIN Number : 7890
+Balance : $ 1000.0
+Interest Rate : $ 0.0
